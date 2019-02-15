@@ -6,6 +6,6 @@ namespace GradeBook.Enums
             Ranked,
             ESNU,
             OneToFour,
-            SixPoints
+            SixPoint
     }
 }
